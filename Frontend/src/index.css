@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "tailwindcss";
+
+@theme{
+  --text-primary-500 : rgba(30, 41, 59, 1);
+  --color-riya-500 : rgba(140, 183, 255, 0.43);
+}
+
+body{
+  background: linear-gradient(to bottom right, #dee7f7, #8dbaf0);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* .body-home{
+  background: #1E293B;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+} */
+
+.recharts-wrapper *:focus,
+.recharts-wrapper *:focus-visible,
+.recharts-wrapper:focus,
+.recharts-wrapper svg:focus,
+.recharts-surface:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
