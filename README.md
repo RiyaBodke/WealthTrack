@@ -47,3 +47,7 @@ npm run dev
 - Live Stock Data
 - PDF Reports
 - Email Notifications
+
+<a href="https://www.figma.com/design/lRtYuqbXs6lxZoMlkP5ztJ/Portfolio-Management">
+  <img src="docs/preview.png" alt="Project design preview" width="700">
+</a>
