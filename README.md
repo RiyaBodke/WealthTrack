@@ -27,6 +27,16 @@ It matters because managing many clients' investments by hand is slow and error-
 | Admin  | Client  |
 |-----------------|------------------|
 |<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/b953738c-d835-4947-a80e-446c4c73d20e" />|<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/90752c95-fb80-4d3b-a4b9-3d3dae335fe8" />|
+|<img width="1439" height="776" alt="Screenshot 2026-10-13 at 12 03 05 AM" src="https://github.com/user-attachments/assets/82404adb-27af-4819-9abe-cd58843755df" />||
+|<img width="1425" height="767" alt="Screenshot 2026-10-13 at 2 19 14 AM" src="https://github.com/user-attachments/assets/ca968b53-8405-4082-98c2-1eed526800db" />
+||<img width="1439" height="770" alt="Screenshot 2026-10-13 at 2 51 12 AM" src="https://github.com/user-attachments/assets/a0b5909e-1fe2-4ac2-aba8-e2df6da99f22" />|
+|<img width="1420" height="733" alt="Screenshot 2026-10-13 at 12 11 18 AM" src="https://github.com/user-attachments/assets/1cb767ab-3767-47d4-84b2-da8722908006" />|
+|<img width="1440" height="774" alt="Screenshot 2026-10-13 at 2 37 58 AM" src="https://github.com/user-attachments/assets/ee2b6cec-56ab-434c-a198-2284d7a786c4" />|
+|<img width="1440" height="769" alt="Screenshot 2026-10-13 at 2 59 34 AM" src="https://github.com/user-attachments/assets/801bdd7c-1e46-4a90-a55c-946184f95903" />|
+|<img width="1440" height="765" alt="Screenshot 2026-10-13 at 2 59 22 AM" src="https://github.com/user-attachments/assets/644de155-7196-49d9-b7cf-04d631117103" />|
+
+
+
 
 ## Features
 
