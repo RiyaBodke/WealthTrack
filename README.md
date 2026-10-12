@@ -45,11 +45,3 @@ npm run dev
 
 ## Screenshots
 
-(Add screenshots)
-
-## Future Enhancements
-
-- Live Stock Data
-- PDF Reports
-- Email Notifications
-
