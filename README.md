@@ -2,6 +2,7 @@
 
 A portfolio management platform for investment managers and clients.
 
+## Figma MVP UI
 <a href="https://www.figma.com/design/lRtYuqbXs6lxZoMIkP5ztJ/Portfolio-Management?node-id=0-1&p=f&m=draw">
   <img width="1920" height="1248" alt="Image" src="https://github.com/user-attachments/assets/66b3ff92-4d92-4a1d-a308-883e57fa6b91" />
 </a>
