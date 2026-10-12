@@ -26,7 +26,9 @@ It matters because managing many clients' investments by hand is slow and error-
 
 | Admin Dashboard | Client Dashboard |
 |-----------------|------------------|
-| ![Admin](Portfolio%20Management/admin-dashboard.png) | ![Client](Portfolio%20Management/client-dashboard.png) |
+| ![Admin](<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/b953738c-d835-4947-a80e-446c4c73d20e" />
+) | ![Client](<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/90752c95-fb80-4d3b-a4b9-3d3dae335fe8" />
+) |
 
 ## Features
 
@@ -107,7 +109,9 @@ npm run dev
 
 The UI was designed in Figma before development.
 
-<!-- PASTE YOUR CLICKABLE FIGMA PREVIEW IMAGE HERE -->
+<a href="https://www.figma.com/design/lRtYuqbXs6lxZoMIkP5ztJ/Portfolio-Management?node-id=0-1&p=f&m=draw">
+    <img width="1920" height="1248" alt="Image" src="https://github.com/user-attachments/assets/66b3ff92-4d92-4a1d-a308-883e57fa6b91" />
+</a>
 
 [View the full design in Figma](https://www.figma.com/design/lRtYuqbXs6lxZoMIkP5ztJ/Portfolio-Management?node-id=0-1&m=draw)
 
