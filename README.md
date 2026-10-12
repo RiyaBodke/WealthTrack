@@ -77,11 +77,11 @@ It matters because managing many clients' investments by hand is slow and error-
 - Transaction history for portfolio amounts
 - Live values for everything, including profit and the manager's share
 - Notes written by the portfolio manager
-- Export reports by financial quarter
 
 ### For everyone
 
 - Two-factor authentication through email OTP
+- Export reports by financial quarter
 - Profile updates and settings, including dark mode and notification settings
 - Responsive design for both web and mobile
 
