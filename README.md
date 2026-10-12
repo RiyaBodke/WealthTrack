@@ -1,5 +1,7 @@
 # WealthTrack
 
+<h1 align="center">WealthTrack</h1>
+
 A portfolio management platform for investment managers and clients.
 
 ## Figma MVP UI
