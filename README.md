@@ -24,9 +24,9 @@ It matters because managing many clients' investments by hand is slow and error-
 
 ## Screenshots
 
-| Admin Dashboard | Client Dashboard |
+| Admin  | Client  |
 |-----------------|------------------|
-|(<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/b953738c-d835-4947-a80e-446c4c73d20e" />|(<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/90752c95-fb80-4d3b-a4b9-3d3dae335fe8" />|
+|<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/b953738c-d835-4947-a80e-446c4c73d20e" />|<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/90752c95-fb80-4d3b-a4b9-3d3dae335fe8" />|
 
 ## Features
 
