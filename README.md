@@ -93,6 +93,41 @@ It matters because managing many clients' investments by hand is slow and error-
 | Backend  | Node.js, Express.js           |
 | Database | PostgreSQL                    |
 
+## Project Structure
+
+```
+WealthTrack/
+├── Backend/                     # Node.js + Express API
+│   ├── config/                  # Database connection (PostgreSQL)
+│   ├── controllers/             # Auth and contact-manager logic
+│   ├── jobs/                    # Scheduled jobs (stock price updater)
+│   ├── middleware/              # JWT verification and role checks (admin / client)
+│   ├── routes/                  # API routes: auth, dashboard, holdings, history,
+│   │                            #   trade book, transactions, notes, profile, users,
+│   │                            #   market data, activity logs, contact
+│   ├── scripts/                 # Helper scripts
+│   ├── services/                # Dashboard calculations, market data, stock import, mailer
+│   ├── utils/                   # OTP emails, financial-year helpers, manager contact email
+│   └── server.js                # App entry point
+│
+├── Frontend/                    # React + Vite + Tailwind client
+│   └── src/
+│       ├── api/                 # API calls (history, trade book, users)
+│       ├── auth/                # Auth helpers and protected routes
+│       ├── components/          # Reusable UI: charts, tables, navbar, sidebar, notes, modals
+│       ├── context/             # User context
+│       ├── hooks/               # Custom hooks
+│       ├── pages/               # Account, Authentication, Client Management, Portfolio, Layouts
+│       ├── services/            # Market data and contact-manager services
+│       ├── utils/               # Date and financial-year helpers
+│       ├── App.jsx              # Routes
+│       └── main.jsx             # React entry point
+├── docs/                        # Screenshots and design assets
+├── Reports/                     # Reports
+├── LICENSE
+└── README.md
+```
+
 ## Getting Started
 
 ### Prerequisites
